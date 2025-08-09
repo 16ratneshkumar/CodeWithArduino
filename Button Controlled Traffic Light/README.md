@@ -161,7 +161,7 @@ void updateLed(int ledTurn){
 
 ## **Demo Video**
 
-*Insert YouTube or Google Drive link to your demo video here.*
+https://github.com/user-attachments/assets/a2bb6022-d8e1-409b-8610-9fe2dd81e607
 
 ## **Troubleshooting**
 
