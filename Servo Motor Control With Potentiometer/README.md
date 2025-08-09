@@ -132,7 +132,7 @@ void loop(){
 
 ## **Demo Video**
 
-*Insert YouTube or Google Drive link to your demo video here.*
+https://github.com/user-attachments/assets/85c49aa7-0898-4496-9976-bdd3d3c7fc47
 
 ## **Troubleshooting**
 

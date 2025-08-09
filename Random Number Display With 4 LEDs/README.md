@@ -147,7 +147,7 @@ void loop() {
 
 ## **Demo Video**
 
-*Insert YouTube or Google Drive link to your demo video here.*
+https://github.com/user-attachments/assets/70da27ee-a8f8-4e01-b166-3958b6856e3d
 
 ## **Troubleshooting**
 
